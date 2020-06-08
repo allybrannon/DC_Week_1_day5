@@ -1,0 +1,5 @@
+-Dictionary is an unordered collection of key/value pairs.
+-Dictionary is between curly brackets 
+
+-Accessing a dictionary by the key
+-remove an item from a dictionary: del
